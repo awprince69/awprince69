@@ -36,3 +36,4 @@
 <br />
 <br />
 <img width="550px" alt="Abdul Wadud Prince Github Stats"  src="https://github-readme-stats.vercel.app/api?username=awprince69&theme=vue&show_icons=true"/>
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=awprince69&card_width=550)](https://github.com/awprince69/awprince69/edit/main/README.md)
