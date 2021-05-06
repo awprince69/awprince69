@@ -35,4 +35,7 @@
 
 <br />
 <br />
-<img width="550px" alt="Abdul Wadud Prince Github Stats"  src="https://github-readme-stats.vercel.app/api?username=awprince69&theme=vue&show_icons=true"/>
+<img width="600px" alt="Abdul Wadud Prince Github Stats"  src="https://github-readme-stats.vercel.app/api?username=awprince69&theme=vue&show_icons=true"/>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=awprince69">
+  <img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awprince69" />
+</a>
