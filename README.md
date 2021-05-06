@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently Studying
 - 🌱 I’m currently learning web development
-- 👯 I’m looking to collaborate with other ope source project
+- 👯 I’m looking to collaborate with other open source project
 - 💬 Ask me about tech stuff
 - ⚡ Fun fact: I love to explore the world
 
