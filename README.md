@@ -3,7 +3,7 @@
 ## I'm in love with :heart_eyes: JavaScript :heart_eyes: :
 
 - 🔭 I’m currently Studying
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning web development,Gatsbyjs
 - 👯 I’m looking to collaborate with other open source project
 - 💬 Ask me about tech stuff
 - ⚡ Fun fact: I love to explore the world
