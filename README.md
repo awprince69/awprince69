@@ -1,7 +1,7 @@
 ### Hi there,I'm [Abdul Wadud Prince](https://a-w-prince.web.app/) 👋
 
 ## I'm in love with :heart_eyes: JavaScript :heart_eyes: :
-
+- 🧑🏻‍💻 2022 I will learn Next.js and some new technology
 - 🔭 I’m currently Studying
 - 🌱 I’m currently learning web development,Gatsbyjs
 - 👯 I’m looking to collaborate with other open source project
