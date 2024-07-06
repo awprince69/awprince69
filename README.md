@@ -73,19 +73,19 @@ Software Engineer ➰ Product Manager
 <div align="left">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=awprince69&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=14b8a6&icon_color=14b8a6&bg_color=ffffff&hide_border=true&show_icons=true" alt="awprince69's GitHub stats" width="45%" /></div>
 
-### 🇧🇩 I’m based - In Bangladesh.
+#### 🇧🇩 I’m based - In Bangladesh.
 
-### 🔭 I’m exploring - AI & ML.
+#### 🔭 I’m exploring - AI & ML.
 
-### 👨🏻‍💻 I’m practicing - Data structure & algorithms.
+#### 👨🏻‍💻 I’m practicing - Data structure & algorithms.
 
-### 🤔 I’m looking - To collaborate on open source projects.
+#### 🤔 I’m looking - To collaborate on open source projects.
 
-### 📖 I'm learning - The lean product playbook.
+#### 📖 I'm learning - The lean product playbook.
 
-### ⚡ Fun fact - I'm a multilingual software engineer and product manager who loves sports —
+#### ⚡ Fun fact - I'm a multilingual software engineer and product manager who loves sports —
 
-### a true Wolf of all trades! 🐺⚽🏏🏀
+#### a true Wolf of all trades! 🐺⚽🏏🏀
 
 ##
 
